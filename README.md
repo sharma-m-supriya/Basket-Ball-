@@ -15,6 +15,7 @@ This React application displays a card for a basketball player, showcasing their
 
 4. **Open your browser:**
     The application should now be running on http://localhost:3000.
+![Screenshot (1734)](https://github.com/user-attachments/assets/91d0469d-dcfa-42db-bd1d-cdaa348ec165)
 
 # Features
 1. Displays a card with player information and stats.
